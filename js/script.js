@@ -12,6 +12,7 @@ Buen día!
 Francis web no le da la bienvenida al usuario: 
 `
 console.log(bienvenida + usuario2);
+console.log(rechazado + usuario1);
 
 //#endregion
 
