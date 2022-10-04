@@ -32,8 +32,9 @@ const dividirDosNumeros = (n1, n2) => resultado = num1 / num2;
 s = sumaDosNumeros(num1, num2);
 m = multiplicarDosNumeros(num1, num2);
 d = dividirDosNumeros(num1, num2);
-
 //mostrar resultado por consola
+console.log('la suma es: ' + s + ', la multiplicacion es: ' + m + ', la division es: ' + d);
+
 //#endregion
 
 //#region 
