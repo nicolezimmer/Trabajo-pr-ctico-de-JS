@@ -49,5 +49,7 @@ for (let i = 0; i <= misMascotas.length; i++) {
     console.log(misMascotas[i]);
 }
 //recorrer un array con for of
-
+for (let m of misMascotas) {
+    console.log(m);
+}
 //#endregion
