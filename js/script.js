@@ -1,6 +1,7 @@
 //#region 
 //imprimir variables let y const por consola
 let usuario1 = 'nikol';
+let usuario2 = "fram";
 
 //#endregion
 
