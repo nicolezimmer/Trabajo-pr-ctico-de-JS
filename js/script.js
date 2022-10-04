@@ -11,7 +11,9 @@ const rechazado = `
 Buen día!
 Francis web no le da la bienvenida al usuario: 
 `
-    //#endregion
+console.log(bienvenida + usuario2);
+
+//#endregion
 
 //#region 
 //funciones de calculos matematicos
