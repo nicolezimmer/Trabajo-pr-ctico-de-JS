@@ -28,8 +28,8 @@ function sumaDosNumeros(n1, n2) {
 //funciones fleha
 const multiplicarDosNumeros = (n1, n2) => resultado = num1 * num2;
 const dividirDosNumeros = (n1, n2) => resultado = num1 / num2;
-
 //invocar funciones
+s = sumaDosNumeros(num1, num2);
 
 //mostrar resultado por consola
 //#endregion
