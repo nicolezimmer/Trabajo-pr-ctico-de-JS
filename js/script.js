@@ -7,6 +7,10 @@ Buen día!
 Bienvenido a Francis web,
 Nuevo usuario: 
 `
+const rechazado = `
+Buen día!
+Francis web no le da la bienvenida al usuario: 
+`
     //#endregion
 
 //#region 
