@@ -24,9 +24,9 @@ const num2 = 2;
 function sumaDosNumeros(n1, n2) {
     const resultado = num1 + num2;
     return resultado;
-
 }
 //funciones fleha
+const multiplicarDosNumeros = (n1, n2) => resultado = num1 * num2;
 
 //invocar funciones
 
