@@ -23,6 +23,7 @@ const num2 = 2;
 //funciones declarativas
 function sumaDosNumeros(n1, n2) {
     const resultado = num1 + num2;
+    return resultado;
 
 }
 //funciones fleha
