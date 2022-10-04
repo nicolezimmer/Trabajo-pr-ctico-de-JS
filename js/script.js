@@ -20,7 +20,10 @@ console.log(rechazado + usuario1);
 //funciones de calculos matematicos
 const num1 = 10;
 const num2 = 2;
+//funciones declarativas
+function sumaDosNumeros(n1, n2) {
 
+}
 //funciones fleha
 
 //invocar funciones
