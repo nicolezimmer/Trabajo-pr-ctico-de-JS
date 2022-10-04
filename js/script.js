@@ -2,8 +2,12 @@
 //imprimir variables let y const por consola
 let usuario1 = 'nikol';
 let usuario2 = "fram";
-
-//#endregion
+const bienvenida = `
+Buen día!
+Bienvenido a Francis web,
+Nuevo usuario: 
+`
+    //#endregion
 
 //#region 
 //funciones de calculos matematicos
