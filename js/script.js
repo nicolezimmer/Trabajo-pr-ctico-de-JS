@@ -45,7 +45,9 @@ muschos se preguntan: a que se dedica!?
 no hay manera de averiguarlo...
 nacio el dia ` + misMascotas[3] + " del mes " + misMascotas[4])
     //recorrer un array con for
-
+for (let i = 0; i <= misMascotas.length; i++) {
+    console.log(misMascotas[i]);
+}
 //recorrer un array con for of
 
 //#endregion
