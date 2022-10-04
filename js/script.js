@@ -19,6 +19,7 @@ console.log(rechazado + usuario1);
 //#region 
 //funciones de calculos matematicos
 const num1 = 10;
+const num2 = 2;
 
 //funciones fleha
 
