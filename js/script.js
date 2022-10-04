@@ -39,6 +39,7 @@ console.log('la suma es: ' + s + ', la multiplicacion es: ' + m + ', la division
 
 //#region 
 //array
+const misMascotas = ['francis', 'donna', 'maggie', 27, 1];
 
 //recorrer un array con for
 
